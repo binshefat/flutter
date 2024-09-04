@@ -72,7 +72,7 @@ class ShoppingCartScreen extends StatelessWidget {
               ),
               child: Text(
                 "CHECK OUT",
-                style: TextStyle(color: Colors.white, fontSize: 18),
+                style: TextStyle(color:  Colors.white, fontSize: 18),
               ),
             ),
           ],
